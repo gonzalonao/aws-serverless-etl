@@ -62,6 +62,8 @@ terraform init
 terraform plan
 ```
 
+Detailed phase plan: [docs/PROJECT-PLAN.md](docs/PROJECT-PLAN.md)
+
 ## Roadmap
 
 - [x] Scaffold: structure, Terraform/CI skeletons
